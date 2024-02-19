@@ -8,7 +8,7 @@ class HelloController {
 
     @GetMapping("/hello")
     fun hello(): String {
-        return "Hello, World! from Kotlin Spring Boot."
+        return "Hello, World! Hurry."
     }
 
 }
